@@ -140,7 +140,7 @@
  $string['sendasnoreply'] = 'Adreça de resposta sense resposta';
  $string['showmodnameintitle'] = 'Mostrar nom del mòdul a l\'assumpte del correu';
  $string['showmodnameintitledesc'] = 'Si està marcat, es posarà el nom del mòdul corresponent a l\'assumpte del correu de recordatori.';
- $string['siteheading'] = 'Recordatoris per a esdeveniments de lloc';
+ $string['siteheading'] = 'Recordatoris per a esdeveniments del lloc';
  $string['taskreminder'] = 'Tasques de recordatori';
  $string['titlesubjectprefix'] = 'Recordatori';
  $string['userheading'] = 'Recordatoris per a esdeveniments d\'usuari';
